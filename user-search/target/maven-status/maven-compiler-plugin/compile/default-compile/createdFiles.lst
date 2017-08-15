@@ -1,0 +1,4 @@
+com\gp\usersearch\repository\UserRepository.class
+com\gp\usersearch\UserSearchBootStrap.class
+com\gp\usersearch\entities\projections\UserProjection.class
+com\gp\usersearch\entities\Usermaster.class
